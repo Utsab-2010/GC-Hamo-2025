@@ -1,6 +1,6 @@
 # GC-Hamo-2025
 ## Video Demo
-[![YouTube Video lF7_R72z5Hs](https://img.youtube.com/vi/lF7_R72z5Hs/maxresdefault.jpg)](https://www.youtube.com/watch?v=lF7_R72z5Hs)
+[![YouTube Video lF7_R72z5Hs](https://utfs.io/f/nGnSqDveMsqxSwHCN9153ODYG0pv5uTAeImgz8rd6CENj9of)](https://www.youtube.com/watch?v=lF7_R72z5Hs)
 ## Circuit Design
 **Transmitter** & **Receiver**
 
@@ -11,6 +11,9 @@
 
 
 ## CAD Design
+[Link to CAD files](https://drive.google.com/drive/folders/1ofq2GxQTMj-k_FqcCt4ODpRAtsVdMHEt?usp=drive_link)
+
+
 ### Electronics Team
 - Aritra
 - Aryarup
