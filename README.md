@@ -14,6 +14,11 @@
 [Link to CAD files](https://drive.google.com/drive/folders/1ofq2GxQTMj-k_FqcCt4ODpRAtsVdMHEt?usp=drive_link)
 
 
+| <img src="pictures/mode1_ortho.jpeg" width="300"/> | <img src="pictures/mode2_ortho.jpeg" width="300"/> |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+| **Mode 1: Driving** | **Mode 2: Parallel Parking** |
+
+
 ### Electronics Team
 - Aritra
 - Aryarup
